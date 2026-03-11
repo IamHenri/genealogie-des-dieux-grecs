@@ -1,0 +1,41 @@
+---
+id: 1358
+title: 'Zeus et sa descendance avec les mortelles'
+date: '2015-12-03T00:55:45+01:00'
+author: Crom
+excerpt: ''
+layout: post
+guid: 'http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/?p=1358'
+permalink: /2015/12/zeus-et-sa-descendance-avec-les-mortelles/
+swp_cache_timestamp:
+    - '492534'
+categories:
+    - 'Dieux et Déesses'
+    - Mortel
+    - 'Mythes et Légendes'
+tags:
+    - Héros
+    - 'Histoire d''Amour'
+    - Mortel
+format: false
+---
+
+<div id="stcpDiv">#### Sémélé (Thyone) : Dionysos
+
+Sémélé est une prêtresse entièrement dévouée à [Zeus](http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/zeus/ "Zeus"). Un jour, elle sacrifie un taureau sur l’autel. Pleine de sang du taureau, elle va se baigner dans un fleuve, l’Asopos, qui est lui même l’enfant de Titans, ou de Dieux, les versions diffèrent selon les auteurs. Alors qu’elle nage dans ce fleuve pour se laver de tout le sang, [Zeus](http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/zeus/ "Zeus"), déguisé en aigle assiste à ce spectacle. Plus prosaïquement, il la mate en train de se baigner toute nue et de se savonner le corps. Quoi de plus naturel finalement que de reluquer une jolie gonzesse qui barbote à poil? Mais c’est un peu oublier le coté assez élaboré de la combine de l’aigle. Il y a malgré tout un aspect voyeuriste qui reste assez flagrant. Pour faire court, il tombe immédiatement amoureux d’elle. Par la suite, ils se voient secrètement, si bien qu’elle tombe enceinte… [Héra](http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/hera/ "Héra"), de son coté commence à avoir de gros doutes sur son mec et cette prêtresse. Pour investiguer plus avant, elle prend forme humaine et devient copine avec Sémélé. Pour punir cette petite salope d’avoir baisé avec son mec, elle élabore un stratagème destiné à punir cette grognasse de prêtresse. Elle tente alors de la convaincre de demander à [Zeus](http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/zeus/ "Zeus") de se montrer à elle (Sémélé) tel qu’il est, de lui présenter sa véritable image. Sémélé qui pète de trouille à l’idée de le voir, se laisse convaincre par Héra. Lorsque Sémélé et Zeus se revoient, elle entreprend de lui demander de se révéler tel qu’il est. Il refuse, elle insiste, il lui dit qu’elle est lourdingue, elle en remet une couche, le supplie et ce, jusqu’à ce qu’il craque. Ce qu’il fait. Mais dans une faible mesure. Il lui dévoile une petite partie de sa véritable image dont la puissance tue immédiatement la prêtresse. [Zeus](http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/zeus/ "Zeus") s’empresse alors de sauver son enfant, [Dionysos](http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/dionysos/ "Dionysos"), encore un fœtus, en se l’implantant dans la cuisse. [Dionysos](http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/dionysos/ "Dionysos") est le seul Dieux né d’une mortelle. </div>#### Io : Epaphus
+
+Quoi de plus simple pour tromper sa compagne que de transformer son amante en vache. L'explication en vidéo: <iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="http://www.youtube.com/embed/QM8ZAJmpFQc" width="420"></iframe>#### Thyia : Magnes, Makedon
+
+Thyia est la fille de[ Pyrrha](http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/pyrrha/ "Pyrrha") et [Deucalion](http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/deucalion/ "Deucalion"), les parents des [hommes](http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/les-hommes/ "hommes"). Magnes et Makedon sont les deux enfants qu'elle a eut de Zeus. Magnes a été roi d'une province orientale de la Grèce actuelle. Makedon serait l'ancêtre des macédoniens, anciennement les Thrace. #### Pandore: Graecus
+
+Pandore, fille de [ Pyrrha](http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/pyrrha/ "Pyrrha") et [Deucalion](http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/deucalion/ "Deucalion"), petite fille de la [Pandore](http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/pandore/ "Pandore"), celle avec la boite, nommée après sa grand mère est la mère de Graecus, l'un des fondateurs de la nation hellène. #### Protogeneia: Aethlius, Opus et Aetolus
+
+Protogeneia est une des filles de [Pyrrha](http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/pyrrha/ "Pyrrha") et [Deucalion](http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/deucalion/ "Deucalion"). Elle est mariée à Locrus, mais n'a aucun enfant de lui. Zeus passant par là lui fait trois mômes: Aethlius, Opus et Aetolus. #### Cassiopée: Atymnius
+
+Cassiopée et Zeus ont eu comme descendance Atymnius, qui n'a pas grand chose de remarquable si ce n'est qu'il a été aimé par son demi-frère Sarpedon. #### Alcmène: Héracles
+
+Héraclès, grand héros de la mythologie grecque et demi Dieu, est le fils de Zeus. Alcmène, une mortelle, est sa mère. Elle est la fille d'Electryon, un roi, lui même fils de Persée et Andromède. Zeus sauta Alcmène grâce à une de ses fameuses ruses: se présenter sous l'apparence de son mari d'alors, Amphitryon. #### Europe: Radamantis, Sarpedon, Minos
+
+![](http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/wp-content/uploads/20170113_193240-300x239.jpg)Europe est une princesse phénicienne. Un jour, alors qu'elle glande à la plage, Zeus, comme par hasard croise son chemin. Pour ne pas se faire griller par Héra, son officielle d'alors ni effrayer la jolie princesse qu'il avise, il se transforme en taureau. Une fleur de Crocus dans la gueule lui permet de se faire remarquer par la belle. Elle s'en approche, puis finalement le chevauche. Leur balade dure jusqu'en Crète, à [Gortyne](https://maps.google.fr/maps?q=Gortyne+gr%C3%A8ce&ie=UTF8&oe=utf-8&client=firefox-a&hnear=Gortyne,+Nome+d%27H%C3%A9raklion,+Gr%C3%A8ce&gl=fr&t=h&z=11&iwloc=A "Gortyne"), précisément. Il prend alors forme humaine pour mener à bien son projet initial à l'ombre d'un platane. Europe donna naissance à Radamantis, Minos et Sarpedon. Les deux premiers deviennent par la suite juges des enfers. Sarpedon préféra aller se la couler douce en Anatolie. #### Danaé: Persée
+
+Zeus est le père de Persée, un des plus grand héros de la mythologie grecque. Pour se faire, il a du ambiancer la belle Danaé, fille d'Acrisios Roi d'Argos et d’Eurydice et la tâche ne fut pas aisée. Acrisios, croyant comme tout le monde aux oracles, a eu la trouille lorsqu'on lui annonça qu'il serait tué par son petit fils. Pour tenter de fuir son destin, ce qui en général le précipite, il enferme sa fille dans une tour d'airain. C'est alors que Zeus, sortant de ses tours de passes-passe habituels, se transforme en pluie d'or pour mener à bien son projet du moment: se faire la belle Danaé. Après la naissance de Persée, Acrisios qui flippe à mort, les jette dans une rivière, enfermés dans une malle. Ils survivent et le destin d'Acrisios vient frapper à sa porte, après les aventure de Persée, face à la Gorgone Méduse.![Zeus Danae Gustav Klimt](http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/wp-content/uploads/Zeus-Danae-Gustav-Klimt-300x278.jpg)En résumé, Zeus aurait sauté **20 gonzesses**, titanides, déesses, nymphes, mortelles... Sachant qu'une descendance découle de ses ébats à chaque fois, de ce point de vue, on lui compte **38 mômes**. Ces derniers ont tous un coté divin plus ou moins affirmé. Héraclès par sa force par exemple, Radamantis qui devient juge des enfers... La destinée des enfants de Zeus est très diverse, comme l'atteste cet article. Il est uniquement basé sur les écrits de Hésiode. Tant la descendance que les aventures diffèrent selon les auteurs. Par exemple, chez Homère, Il a eu une aventure avec Thémis. Selon Homère, [Némésis](http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/nemesis/ "Némésis") est leur fille, avec laquelle il aurait d'ailleurs eu Hélène (de Troie)... Suite: [les Histoires de cul de Zeus avec les Pléiades](http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2015/12/zeus-et-sa-descendance-avec-les-pleiades/)

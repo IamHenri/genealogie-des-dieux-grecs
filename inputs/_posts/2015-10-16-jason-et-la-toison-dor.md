@@ -1,0 +1,27 @@
+---
+id: 1320
+title: 'Jason et la Toison d&rsquo;Or'
+date: '2015-10-16T01:08:46+02:00'
+author: Crom
+excerpt: ''
+layout: post
+guid: 'http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/?p=1320'
+permalink: /2015/10/jason-et-la-toison-dor/
+swp_cache_timestamp:
+    - '492363'
+categories:
+    - Héros
+    - 'Mythes et Légendes'
+tags:
+    - 'Culture confiture'
+    - Héros
+format: false
+---
+
+# La vie de Jason
+
+Ce n'est pas la tragédie grecque dans toute sa splendeur, mais c'est pas la pantalonnade tous les jours! Il est le petit fils d'[Eole](http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/eole/ "Eole"). Donc d'une famille de descendance divine. Malgré cela, il a une famille de connards. Pour commencer son oncle qui veut le buter à sa naissance. L'enfance de Jason n'a pas du être forcément très facile, car laissé par sa mère pour mort né, il est adopté et éduqué par Chiron, un Centaure (en même temps c'est peut être très cool un centaure), pour ensuite revenir dans sa patrie pour la reconquérir, mission rendue impossible par son connard d'oncle qui s'est approprié son lopin de terre. Jason, blasé, veut récupérer son Île. Il se soumet à une épreuve (aller chercher la toison) imposée par son oncle qui lui promet le royaume en récompense. Quand il revient, cet oncle qui en a profité pour entretenir son statut de gros connard, en a profité pour dézinguer son père. # Une rencontre
+
+Pendant qu'il va chercher son tapis avec les argonautes, il rencontre Médée, la fille du roi du coin. A son retour, ou après, Médée et Jason sont mariés. Elle prend pas mal ses aises dans la famille. Elle rentre bien dans le décors disons. Elle commence par faire en sorte que les cousines de Jason défoncent leur père (le connard d'oncle). Suite à quoi, Exile. 10 ans à la cool à glander à Corinthe. Enfin, ... moyennement à la cool. Jason se tape une gonzesse (une fille du roi local) mais Médée la tue, puis tue ses mômes (ses propres mômes) avant de s'envoler dans un char ailé offert par [Hélios](http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/helios/ "Hélios"). Rien d'étonnant à ce que cette grosse balance de l'Olympe se comporte comme un clébard auprès du premier psychopathe qui passe. Puis retour à la maison et devient roi. # La toison d'or
+
+Pour ce qui est de la toison d'or, en gros, il doit aller récupérer une toison. Il s'en va avec une bande de mecs (les Argonautes) pour la récupérer. Il tombe sur un roi qui le soumet à des épreuves. Il les réussi toutes avec l'aide de la fille du roi qui est tombé raide du mec venu de loin conquérir la toison. Enfin bon, on sait plus de quelle toison on parle. Mauvais joueur, le roi refuse finalement de lui filer sa toison. Jason lui met une dérouillée et se barre avec la toison sa fille. Sans savoir la grosse psychopathe qu'elle est. 

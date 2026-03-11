@@ -1,0 +1,16 @@
+---
+id: 2226
+title: 'Héros et héroïne de la mythologie grecque'
+date: '2018-08-11T09:29:36+02:00'
+author: henri12
+excerpt: ''
+layout: revision
+guid: 'https://genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2018/08/895-revision-v1/'
+permalink: '/?p=2226'
+---
+
+###### La mythologie grecque a son lot de Héros et une héroïne.
+
+Le premier Héros, certainement le plus célèbre grâce à ses douze travaux n'a pas grand chose à envier à celui que l'on peut considérer comme son suivant, le bourreau de Méduse. Puis pour finir, pour l'instant cette courte liste, une héroïne de la mythologie grecque dont voici une liste avec au moins un auteur qui les évoque. Bien que peux de choses aient pu traverser les millénaires, la littérature sur la mythologie grecque est [relativement fournie](http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2013/01/les-auteurs-de-la-mythologie-grecque/)! ###### Les Héros et héroïne de la mythologie grecque
+
+**[Héracles](http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/heracles/ "Héracles - Mythologie grecque")** et ses douze travaux. *Homère, Apollonius de Rhodes, Ovide***[Persée](http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2014/04/persee/ "Persée - généalogie des dieux grecs")** et Méduse. *Hésiode, Homère***[Belleropon](http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/bellerophon/ "Bellerophon -Mythologie grecque")** et Chimère. *Homère***Ulysse** pour ses aventures. *Homère***Thésée** contre le minotaure. *Ovide, Euripide***Achille** présent dans l'Iliade et la guère de Troie, il est le rois des mirmidons. *Homère***Jason** pour sa toison et ses [aventures](http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2015/10/jason-et-la-toison-dor/). *Apollonius de Rhodes, Euripide***Œdipe** que l'on résumera à sa victoire face au sphinx. *Sophocle***Atalante**, une chasseresse de légende. *Ovide, Apollodore*\[caption id="attachment\_1803" align="aligncenter" width="525"\]![Frank Frazetta - Banth](http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/wp-content/uploads/Frank-Frazetta-Banth-818x1024.jpg) Frank Frazetta - Banth\[/caption\]
