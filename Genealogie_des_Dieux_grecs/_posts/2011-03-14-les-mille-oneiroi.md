@@ -3,7 +3,6 @@ title: 'Les mille Oneiroi'
 date: '2011-03-14T12:10:17+01:00'
 author: Crom
 layout: post
-permalink: /2011/03/les-mille-oneiroi/
 categories:
     - 'Les divinités grecques'
     - Monstre

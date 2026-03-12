@@ -3,7 +3,6 @@ title: Asclépios
 date: '2011-03-14T15:20:07+01:00'
 author: Crom
 layout: post
-permalink: /2011/03/asclepios/
 categories:
     - 'Dieux et Déesses'
     - 'Les divinités grecques'

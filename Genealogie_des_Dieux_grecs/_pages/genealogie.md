@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Généalogie'
-permalink: /genealogie/
+permalink: /Genealogie_des_Dieux_grecs/genealogie/
 ---
 
 Page non maintenue, [voir ici](https://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/genealogie_des_dieux_grecs.htm).

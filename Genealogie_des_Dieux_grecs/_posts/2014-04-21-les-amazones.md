@@ -3,7 +3,6 @@ title: 'Les Amazones'
 date: '2014-04-21T10:19:11+02:00'
 author: Crom
 layout: post
-permalink: /2014/04/les-amazones/
 categories:
     - 'Culture confiture'
     - 'Divinité mineure'

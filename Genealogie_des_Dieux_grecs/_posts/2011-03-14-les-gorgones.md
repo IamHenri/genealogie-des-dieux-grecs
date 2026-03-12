@@ -3,7 +3,6 @@ title: 'Les Gorgones'
 date: '2011-03-14T11:53:49+01:00'
 author: Crom
 layout: post
-permalink: /2011/03/les-gorgones/
 categories:
     - 'Les divinités grecques'
     - Monstre

@@ -3,7 +3,6 @@ title: "La sexualité des Dieux grecs – épisode deux «\_Couper les couilles\
 date: '2015-01-27T18:37:04+01:00'
 author: Crom
 layout: post
-permalink: /2015/01/la-sexualite-des-dieux-grecs-episode-deux-couper-les-couilles/
 categories:
     - 'Culture confiture'
     - 'Mythes et Légendes'

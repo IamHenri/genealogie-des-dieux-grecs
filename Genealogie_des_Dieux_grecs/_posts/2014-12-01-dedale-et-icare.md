@@ -3,7 +3,6 @@ title: 'Dédale et Icare'
 date: '2014-12-01T23:18:08+01:00'
 author: Crom
 layout: post
-permalink: /2014/12/dedale-et-icare/
 categories:
     - 'Mythes et Légendes'
 tags:

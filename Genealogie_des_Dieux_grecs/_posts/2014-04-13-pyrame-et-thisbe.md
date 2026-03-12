@@ -3,7 +3,6 @@ title: 'Pyrame et Thisbe'
 date: '2014-04-13T23:51:34+02:00'
 author: Crom
 layout: post
-permalink: /2014/04/pyrame-et-thisbe/
 categories:
     - 'Culture confiture'
     - 'Histoires d''Amour'

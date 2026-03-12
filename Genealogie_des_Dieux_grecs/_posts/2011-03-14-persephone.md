@@ -3,7 +3,6 @@ title: Perséphone
 date: '2011-03-14T15:06:55+01:00'
 author: Crom
 layout: post
-permalink: /2011/03/persephone/
 categories:
     - 'Dieux et Déesses'
     - 'Les divinités grecques'

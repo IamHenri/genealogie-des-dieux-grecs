@@ -3,7 +3,6 @@ title: 'Liste des Déesses et des Dieux de la mythologie grecque'
 date: '2017-01-11T01:04:21+01:00'
 author: Crom
 layout: post
-permalink: /2017/01/liste-deesses-dieux-mythologie-grecque/
 categories:
     - 'Dieux et Déesses'
     - 'Les divinités grecques'

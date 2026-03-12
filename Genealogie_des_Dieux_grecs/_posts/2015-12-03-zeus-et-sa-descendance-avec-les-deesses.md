@@ -3,7 +3,6 @@ title: 'Zeus et sa descendance avec les Déesses'
 date: '2015-12-03T00:55:15+01:00'
 author: Crom
 layout: post
-permalink: /2015/12/zeus-et-sa-descendance-avec-les-deesses/
 categories:
     - 'Dieux et Déesses'
     - 'Mythes et Légendes'

@@ -3,7 +3,6 @@ title: Epiméthée
 date: '2011-03-14T15:19:25+01:00'
 author: Crom
 layout: post
-permalink: /2011/03/epimethee/
 categories:
     - 'Les divinités grecques'
     - Titan

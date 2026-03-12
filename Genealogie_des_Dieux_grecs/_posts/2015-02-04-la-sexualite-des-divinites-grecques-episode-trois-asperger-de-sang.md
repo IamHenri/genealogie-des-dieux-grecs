@@ -3,7 +3,6 @@ title: "La sexualité des Divinités grecques &#8211; Episode trois «\_Aspergé
 date: '2015-02-04T20:21:11+01:00'
 author: Crom
 layout: post
-permalink: /2015/02/la-sexualite-des-divinites-grecques-episode-trois-asperger-de-sang/
 categories:
     - 'Les divinités grecques'
     - 'Mythes et Légendes'

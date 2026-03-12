@@ -3,7 +3,6 @@ title: 'Narcisse et Echo'
 date: '2019-04-24T16:29:45+02:00'
 author: Crom
 layout: post
-permalink: /2019/04/narcisse-et-echo-mythologie/
 categories:
     - 'Histoires d''Amour'
 tags:

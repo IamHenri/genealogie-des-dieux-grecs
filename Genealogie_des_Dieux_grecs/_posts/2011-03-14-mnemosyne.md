@@ -3,7 +3,6 @@ title: Mnémosyne
 date: '2011-03-14T12:08:39+01:00'
 author: Crom
 layout: post
-permalink: /2011/03/mnemosyne/
 categories:
     - 'Les divinités grecques'
     - Titan

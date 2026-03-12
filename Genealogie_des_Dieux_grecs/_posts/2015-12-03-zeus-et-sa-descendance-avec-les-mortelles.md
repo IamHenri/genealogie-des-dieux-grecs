@@ -3,7 +3,6 @@ title: 'Zeus et sa descendance avec les mortelles'
 date: '2015-12-03T00:55:45+01:00'
 author: Crom
 layout: post
-permalink: /2015/12/zeus-et-sa-descendance-avec-les-mortelles/
 categories:
     - 'Dieux et Déesses'
     - Mortel

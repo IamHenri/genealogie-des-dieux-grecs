@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Les divinités Grecques'
-permalink: /les-divinites-grecques/
+permalink: /Genealogie_des_Dieux_grecs/les-divinites-grecques/
 ---
 
 ### Du Chaos naquit le monde

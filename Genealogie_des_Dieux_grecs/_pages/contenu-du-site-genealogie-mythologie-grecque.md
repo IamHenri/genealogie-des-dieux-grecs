@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Le site'
-permalink: /contenu-du-site/
+permalink: /Genealogie_des_Dieux_grecs/contenu-du-site/
 ---
 
 ## Mythes et Légendes

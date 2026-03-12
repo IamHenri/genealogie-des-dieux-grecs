@@ -3,7 +3,6 @@ title: 'Zeus et sa descendance avec les Océanides et les Nymphes'
 date: '2015-12-03T00:56:34+01:00'
 author: Crom
 layout: post
-permalink: /2015/12/zeus-et-sa-descendance-avec-les-oceanides-et-les-nymphes/
 categories:
     - 'Dieux et Déesses'
     - 'Mythes et Légendes'

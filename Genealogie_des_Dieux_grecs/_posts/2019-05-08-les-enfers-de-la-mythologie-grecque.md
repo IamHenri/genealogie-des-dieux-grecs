@@ -3,7 +3,6 @@ title: 'Les Enfers de la mythologie grecque'
 date: '2019-05-08T18:42:59+02:00'
 author: Crom
 layout: post
-permalink: /2019/05/les-enfers-de-la-mythologie-grecque/
 categories:
     - 'Culture confiture'
     - 'Mythes et Légendes'

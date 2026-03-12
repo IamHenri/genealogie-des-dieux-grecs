@@ -3,7 +3,6 @@ title: 'La sexualité des divinités grecques &#8211; épisode zéro'
 date: '2014-12-09T12:23:14+01:00'
 author: Crom
 layout: post
-permalink: /2014/12/la-sexualite-des-dieux-grecs-episode-zero/
 categories:
     - 'Histoires d''Amour'
     - 'Mythes et Légendes'

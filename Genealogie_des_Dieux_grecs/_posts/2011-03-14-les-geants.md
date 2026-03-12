@@ -3,7 +3,6 @@ title: 'Les Géants'
 date: '2011-03-14T12:31:29+01:00'
 author: Crom
 layout: post
-permalink: /2011/03/les-geants/
 categories:
     - 'Les divinités grecques'
     - Monstre

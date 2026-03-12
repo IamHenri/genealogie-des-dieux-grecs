@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Mentions légales'
-permalink: /mentions-legales/
+permalink: /Genealogie_des_Dieux_grecs/mentions-legales/
 ---
 
 ## Disclaimer

@@ -3,7 +3,6 @@ title: 'Zeus et sa descendance avec les titanides'
 date: '2015-12-03T00:56:44+01:00'
 author: Crom
 layout: post
-permalink: /2015/12/zeus-descendance-titanides/
 categories:
     - 'Culture confiture'
     - 'Dieux et Déesses'

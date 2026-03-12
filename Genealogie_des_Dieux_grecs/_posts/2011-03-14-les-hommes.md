@@ -3,7 +3,6 @@ title: 'L&rsquo;Homme (la femme aussi&#8230;)'
 date: '2011-03-14T15:28:33+01:00'
 author: Crom
 layout: post
-permalink: /2011/03/les-hommes/
 categories:
     - 'Les divinités grecques'
     - Mortel

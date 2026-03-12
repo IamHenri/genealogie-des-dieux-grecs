@@ -3,7 +3,6 @@ title: 'Les auteurs de la mythologie grecque'
 date: '2013-01-06T13:43:40+01:00'
 author: Crom
 layout: post
-permalink: /2013/01/les-auteurs-de-la-mythologie-grecque/
 categories:
     - Auteur
 tags:

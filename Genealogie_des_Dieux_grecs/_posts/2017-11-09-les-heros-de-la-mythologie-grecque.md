@@ -3,7 +3,6 @@ title: 'Héroïnes et Héros de la mythologie grecque'
 date: '2017-11-09T08:13:10+01:00'
 author: Crom
 layout: post
-permalink: /2017/11/les-heros-de-la-mythologie-grecque/
 categories:
     - Héros
     - 'Mythes et Légendes'

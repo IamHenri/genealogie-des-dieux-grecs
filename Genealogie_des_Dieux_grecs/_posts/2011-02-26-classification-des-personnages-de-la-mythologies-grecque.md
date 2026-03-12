@@ -3,7 +3,6 @@ title: 'Classification des personnages de la Mythologie grecque'
 date: '2011-02-26T19:08:52+01:00'
 author: Crom
 layout: post
-permalink: /2011/02/classification-des-personnages-de-la-mythologies-grecque/
 categories:
     - 'Les divinités grecques'
 tags:
