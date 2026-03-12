@@ -29,6 +29,12 @@ jobs:
         env:
           JEKYLL_ENV: production
 
+      - name: Copy root files to site
+        run: |
+          cp index.html Genealogie_des_Dieux_grecs/_site/index.html
+          cp hero.jpg Genealogie_des_Dieux_grecs/_site/hero.jpg
+          cp favicon.ico Genealogie_des_Dieux_grecs/_site/favicon.ico
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
