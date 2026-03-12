@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<div class="container my-5">
+  <div class="row justify-content-center">
+    <div class="col-lg-8">
+      <article>
+        <h1 class="mb-2">{{ page.title }}</h1>
+        <p class="text-muted small mb-4">
+          {{ page.date | date: "%d %B %Y" }}
+          {% if page.author %} — {{ page.author }}{% endif %}
+          {% if page.categories %}
+            —
+            {% for cat in page.categories %}
+              <span class="badge bg-secondary">{{ cat }}</span>
+            {% endfor %}
+          {% endif %}
+        </p>
+        <hr>
+        {{ content }}
+        <hr>
+        <a href="{{ '/Genealogie_des_Dieux_grecs/' | relative_url }}" class="btn btn-outline-secondary btn-sm mt-3">
+          ← Retour à l'accueil
+        </a>
+      </article>
+    </div>
+  </div>
+</div>
