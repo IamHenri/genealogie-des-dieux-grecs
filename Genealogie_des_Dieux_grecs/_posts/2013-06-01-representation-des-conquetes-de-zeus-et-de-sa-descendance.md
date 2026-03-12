@@ -3,7 +3,6 @@ title: 'Représentation des conquêtes de Zeus et de sa descendance'
 date: '2013-06-01T16:05:44+02:00'
 author: Crom
 layout: post
-permalink: /2013/06/representation-des-conquetes-de-zeus-et-de-sa-descendance/
 categories:
     - 'Culture confiture'
     - 'Mythes et Légendes'

@@ -3,7 +3,6 @@ title: 'Zeus et ses conquêtes amoureuses'
 date: '2013-02-03T16:29:07+01:00'
 author: Crom
 layout: post
-permalink: /2013/02/les-aventures-amoureuses-de-zeus/
 categories:
     - 'Mythes et Légendes'
 tags:

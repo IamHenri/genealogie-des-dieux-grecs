@@ -3,7 +3,6 @@ title: 'Mesperyian &#8211; fille de Dieu mais pas Déesse'
 date: '2021-04-04T13:57:57+02:00'
 author: Crom
 layout: post
-permalink: /2021/04/mesperyian-fille-de-dieu-mais-pas-deesse/
 categories:
     - 'Divinité mineure'
 tags:

@@ -3,7 +3,6 @@ title: 'Zeus et sa descendance avec les Pléiades'
 date: '2015-12-03T00:55:27+01:00'
 author: Crom
 layout: post
-permalink: /2015/12/zeus-et-sa-descendance-avec-les-pleiades/
 categories:
     - 'Dieux et Déesses'
     - 'Mythes et Légendes'

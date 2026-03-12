@@ -3,7 +3,6 @@ title: 'Deucalion, le premier homme'
 date: '2011-03-14T15:25:58+01:00'
 author: Crom
 layout: post
-permalink: /2011/03/deucalion/
 categories:
     - 'Les divinités grecques'
     - Mortel

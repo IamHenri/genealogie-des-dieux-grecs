@@ -3,7 +3,6 @@ title: 'Tableau synoptique des écoles de pensées et des philosophes grecs'
 date: '2013-05-19T16:16:18+02:00'
 author: Crom
 layout: post
-permalink: /2013/05/les-philosophes-grecs/
 categories:
     - 'Culture confiture'
 tags:

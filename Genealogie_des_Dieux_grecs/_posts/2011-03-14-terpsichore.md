@@ -3,7 +3,6 @@ title: Terpsichore
 date: '2011-03-14T13:46:55+01:00'
 author: Crom
 layout: post
-permalink: /2011/03/terpsichore/
 categories:
     - 'Les divinités grecques'
     - Muse

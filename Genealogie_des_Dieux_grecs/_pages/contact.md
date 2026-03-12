@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Contact'
-permalink: /contact/
+permalink: /Genealogie_des_Dieux_grecs/contact/
 ---
 
 ### Pour tout commentaire, remarques, insulte, c'est ici:

@@ -3,7 +3,6 @@ title: 'La Gigantomachie'
 date: '2018-02-08T00:00:36+01:00'
 author: Crom
 layout: post
-permalink: /2018/02/la-gigantomachie/
 categories:
     - 'Les divinités grecques'
     - 'Mythes et Légendes'

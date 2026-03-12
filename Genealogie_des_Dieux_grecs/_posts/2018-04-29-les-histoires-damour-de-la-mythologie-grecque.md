@@ -3,7 +3,6 @@ title: 'Les histoires d&rsquo;Amour de la mythologie grecque'
 date: '2018-04-29T20:36:13+02:00'
 author: Crom
 layout: post
-permalink: /2018/04/les-histoires-damour-de-la-mythologie-grecque/
 categories:
     - 'Histoires d''Amour'
     - 'Mythes et Légendes'

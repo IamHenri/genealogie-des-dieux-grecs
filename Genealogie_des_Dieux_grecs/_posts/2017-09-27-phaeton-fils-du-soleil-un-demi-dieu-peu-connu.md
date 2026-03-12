@@ -3,7 +3,6 @@ title: 'Phaéton &#8211; un demi Dieu'
 date: '2017-09-27T16:47:05+02:00'
 author: Crom
 layout: post
-permalink: /2017/09/phaeton-fils-du-soleil-un-demi-dieu-peu-connu/
 categories:
     - 'Mythes et Légendes'
 tags:

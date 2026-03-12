@@ -3,7 +3,6 @@ title: 'Correspondances entre divinités grecques et romaines'
 date: '2015-10-22T10:54:11+02:00'
 author: Crom
 layout: post
-permalink: /2015/10/correspondances-entre-divinites-grecques-et-romaines/
 categories:
     - 'Culture confiture'
     - 'Dieux et Déesses'

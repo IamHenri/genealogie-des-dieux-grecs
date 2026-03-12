@@ -3,7 +3,6 @@ title: "La sexualité des divinités grecques &#8211; Episode un «\_La pluie d&
 date: '2014-12-11T10:00:27+01:00'
 author: Crom
 layout: post
-permalink: /2014/12/la-sexualite-des-divinites-grecques-episode-un-pluie-d-or/
 categories:
     - 'Culture confiture'
     - 'Mythes et Légendes'

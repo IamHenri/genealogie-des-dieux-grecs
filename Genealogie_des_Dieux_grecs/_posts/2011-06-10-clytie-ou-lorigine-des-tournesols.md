@@ -3,7 +3,6 @@ title: 'Clytie ou l&rsquo;origine des tournesols'
 date: '2011-06-10T01:07:55+02:00'
 author: Crom
 layout: post
-permalink: /2011/06/clytie-ou-lorigine-des-tournesols/
 categories:
     - 'Mythes et Légendes'
 tags:

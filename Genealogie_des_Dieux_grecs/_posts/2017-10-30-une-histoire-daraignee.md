@@ -3,7 +3,6 @@ title: 'Une histoire d&rsquo;araignée'
 date: '2017-10-30T17:18:02+01:00'
 author: Crom
 layout: post
-permalink: /2017/10/une-histoire-daraignee/
 categories:
     - 'Culture confiture'
     - 'Dieux et Déesses'

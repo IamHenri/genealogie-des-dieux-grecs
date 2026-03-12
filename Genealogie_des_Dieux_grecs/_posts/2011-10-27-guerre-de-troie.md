@@ -3,7 +3,6 @@ title: 'La guerre de Troie'
 date: '2011-10-27T16:43:41+02:00'
 author: Crom
 layout: post
-permalink: /2011/10/guerre-de-troie/
 categories:
     - 'Mythes et Légendes'
 tags:

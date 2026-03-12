@@ -3,7 +3,6 @@ title: 'Les créatures de la mythologie grecque'
 date: '2017-10-27T11:43:37+02:00'
 author: Crom
 layout: post
-permalink: /2017/10/les-creatures-de-la-mythologie-grecque/
 categories:
     - 'Culture confiture'
     - Monstre

@@ -3,7 +3,6 @@ title: Aphrodite
 date: '2012-10-14T12:20:49+02:00'
 author: Crom
 layout: post
-permalink: /2012/10/aphrodite/
 categories:
     - 'Histoires d''Amour'
     - 'Les divinités grecques'

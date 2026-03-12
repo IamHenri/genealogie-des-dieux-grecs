@@ -3,7 +3,6 @@ title: 'La sexualité des Divinités grecques – Episode quatre “Un roi et l&
 date: '2018-08-06T02:05:02+02:00'
 author: Crom
 layout: post
-permalink: /2018/08/la-sexualite-des-divinites-grecques-episode-quatre-un-roi-et-laurore/
 categories:
     - 'Mythes et Légendes'
 tags:

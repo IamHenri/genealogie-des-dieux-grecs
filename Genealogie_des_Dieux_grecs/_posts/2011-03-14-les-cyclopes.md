@@ -3,7 +3,6 @@ title: 'Les Cyclopes'
 date: '2011-03-14T11:54:37+01:00'
 author: Crom
 layout: post
-permalink: /2011/03/les-cyclopes/
 categories:
     - 'Les divinités grecques'
     - Monstre

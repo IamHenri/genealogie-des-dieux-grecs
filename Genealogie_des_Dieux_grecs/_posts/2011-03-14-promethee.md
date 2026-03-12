@@ -3,7 +3,6 @@ title: Prométhée
 date: '2011-03-14T15:12:00+01:00'
 author: Crom
 layout: post
-permalink: /2011/03/promethee/
 categories:
     - 'Les divinités grecques'
     - Titan

@@ -3,7 +3,6 @@ title: 'Les Hécatonchires'
 date: '2011-03-14T12:02:24+01:00'
 author: Crom
 layout: post
-permalink: /2011/03/les-hecatonchires/
 categories:
     - 'Les divinités grecques'
     - Monstre

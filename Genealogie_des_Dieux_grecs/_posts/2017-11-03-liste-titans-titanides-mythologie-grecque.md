@@ -3,7 +3,6 @@ title: 'Liste des Titans et Titanides de la mythologie grecque'
 date: '2017-11-03T18:53:56+01:00'
 author: Crom
 layout: post
-permalink: /2017/11/liste-titans-titanides-mythologie-grecque/
 categories:
     - 'Culture confiture'
     - 'Les divinités grecques'

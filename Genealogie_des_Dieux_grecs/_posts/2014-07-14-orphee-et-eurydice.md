@@ -3,7 +3,6 @@ title: 'Orphée et Eurydice'
 date: '2014-07-14T23:21:23+02:00'
 author: Crom
 layout: post
-permalink: /2014/07/orphee-et-eurydice/
 categories:
     - 'Culture confiture'
     - 'Histoires d''Amour'

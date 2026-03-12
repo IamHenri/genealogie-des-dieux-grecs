@@ -3,7 +3,6 @@ title: 'Photo du site'
 date: '2018-01-16T08:52:09+01:00'
 author: Crom
 layout: post
-permalink: /2018/01/baalbek-temple-grec-greco-romain-ruine-vestige-mythologie/
 categories:
     - 'Mythes et Légendes'
 tags:

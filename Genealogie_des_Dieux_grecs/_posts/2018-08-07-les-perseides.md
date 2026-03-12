@@ -3,7 +3,6 @@ title: 'Les perséides'
 date: '2018-08-07T17:42:40+02:00'
 author: Crom
 layout: post
-permalink: /2018/08/les-perseides/
 categories:
     - 'Culture confiture'
 tags:

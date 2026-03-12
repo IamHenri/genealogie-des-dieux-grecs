@@ -3,7 +3,6 @@ title: 'Les Méliades'
 date: '2011-03-14T11:50:30+01:00'
 author: Crom
 layout: post
-permalink: /2011/03/les-meliades/
 categories:
     - 'Divinité mineure'
     - 'Les divinités grecques'

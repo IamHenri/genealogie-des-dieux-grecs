@@ -3,7 +3,6 @@ title: 'Les Erinynes'
 date: '2011-03-14T11:48:22+01:00'
 author: Crom
 layout: post
-permalink: /2011/03/les-erinynes/
 categories:
     - 'Divinité mineure'
     - 'Les divinités grecques'

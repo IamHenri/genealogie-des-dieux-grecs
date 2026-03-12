@@ -3,7 +3,6 @@ title: 'Jason et la Toison d&rsquo;Or'
 date: '2015-10-16T01:08:46+02:00'
 author: Crom
 layout: post
-permalink: /2015/10/jason-et-la-toison-dor/
 categories:
     - Héros
     - 'Mythes et Légendes'

@@ -3,7 +3,6 @@ title: 'Les Hespérides'
 date: '2011-03-14T12:38:40+01:00'
 author: Crom
 layout: post
-permalink: /2011/03/les-hesperides/
 categories:
     - 'Les divinités grecques'
     - Nymphe
