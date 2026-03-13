@@ -10,7 +10,7 @@
 </head>
 <body>
 
-  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
     <div class="container">
       <a class="navbar-brand" href="{{ '/Genealogie_des_Dieux_grecs/' | relative_url }}">⚡ Généalogie des Dieux Grecs</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu">
@@ -56,12 +56,34 @@
   <main>
     {{ content }}
   </main>
+<footer class="footer-main py-5">
+  <div class="container">
+    <div class="row">
 
-  <footer class="bg-dark text-light py-4 mt-5">
-    <div class="container text-center">
-      <p class="mb-0">© {{ site.time | date: "%Y" }} Généalogie des Dieux Grecs</p>
+      <!-- Colonne 1 : liens du site -->
+      <div class="col-lg-6 mb-4 mb-lg-0">
+        <h5 class="footer-title">Navigation</h5>
+        <ul class="list-unstyled footer-links">
+          <li><a href="{{ '/Genealogie_des_Dieux_grecs/' | relative_url }}">Accueil du site</a></li>
+          <li><a href="{{ '/Genealogie_des_Dieux_grecs/categories/culture-confiture/' | relative_url }}">Culture confiture</a></li>
+          <li><a href="{{ '/Genealogie_des_Dieux_grecs/contact/' | relative_url }}">Contact</a></li>
+          <li><a href="{{ '/Genealogie_des_Dieux_grecs/mentions-legales/' | relative_url }}">Mentions légales</a></li>
+          <li><a href="https://mozaic.link" target="_blank">Gestionnaire de marque-pages</a></li>
+        </ul>
+      </div>
+
+      <!-- Colonne 2 : auteur -->
+      <div class="col-lg-6 text-lg-end">
+        <h5 class="footer-title">À propos</h5>
+        <p class="footer-text">Site conçu et développé par<br>
+          <a href="https://designerfonctionnel.com" target="_blank">designerfonctionnel.com</a>
+        </p>
+        <p class="footer-text small">© {{ site.time | date: "%Y" }} Généalogie des Dieux Grecs</p>
+      </div>
+
     </div>
-  </footer>
+  </div>
+</footer>
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
