@@ -35,6 +35,7 @@ jobs:
           cp hero.jpg Genealogie_des_Dieux_grecs/_site/hero.jpg
           cp favicon.ico Genealogie_des_Dieux_grecs/_site/favicon.ico
           cp genealogie-des-divinites-grecques.html Genealogie_des_Dieux_grecs/_site/genealogie-des-divinites-grecques.html
+          cp -r images Genealogie_des_Dieux_grecs/_site/images
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
