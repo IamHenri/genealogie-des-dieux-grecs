@@ -2,7 +2,7 @@
 .hero-section {
   background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)),
               url('/genealogie-des-dieux-grecs/assets/hero.jpg') center/cover no-repeat;
-  min-height: 500px;
+  min-height: 200px;
 }
 
 /* Navbar */
