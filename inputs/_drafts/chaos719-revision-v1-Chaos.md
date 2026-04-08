@@ -2,7 +2,7 @@
 id: 2150
 title: Chaos
 date: '2018-07-24T22:49:40+02:00'
-author: henri12
+author: Crom
 excerpt: ''
 layout: revision
 guid: 'https://genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2018/07/719-revision-v1/'
@@ -16,4 +16,4 @@ Le Chaos: élément primordial de la théogonie de Hésiode. Il précède l'orig
 - [Gaïa ](http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/gaia/ "Gaia")et
 - [Ouranos](http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/ouranos/ "Ouranos").
  
- Le chaos hésiodique se rattache à sa racine grecque, χα soit être béant... ce qui désigne l'espace vide. Plus tard une dérivation du mot lui donna le sens d'une masse confuse, informe et inorganisée d'éléments répandus dans l'espace. Le chaos est un principe cosmique, sans caractère divin. Il en est de même de l’Éros primordial mentionné par Hésiode. Cet Éros est plus un principe métaphysique, une force d'attraction entre les constituants intimes de l'univers. Il n'a rien à voir avec le "Éros" des légendes postérieures. \[caption id="" align="aligncenter" width="362"\]![Chaos](http://www.ibiblio.org/wm/paint/auth/pollock/pollock.number-8.jpg "Chaos") Jackson Pollock <dd>\[/caption\]</dd>
+ Le chaos hésiodique se rattache à sa racine grecque, χα soit être béant... ce qui désigne l'espace vide. Plus tard une dérivation du mot lui donna le sens d'une masse confuse, informe et inorganisée d'éléments répandus dans l'espace. Le chaos est un principe cosmique, sans caractère divin. Il en est de même de l’Éros primordial mentionné par Hésiode. Cet Éros est plus un principe métaphysique, une force d'attraction entre les constituants intimes de l'univers. Il n'a rien à voir avec le "Éros" des légendes postérieures. \[caption id="" align="aligncenter" width="362"\]![Chaos](http://www.ibiblio.org/wm/paint/auth/pollock/pollock.number-8.jpg "Chaos") Jackson Pollock <dd>\[/caption\]</dd> 
