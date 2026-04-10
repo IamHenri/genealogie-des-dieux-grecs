@@ -9,5 +9,8 @@ categories:
 tags:
     - 'Divinité mineure'
 ---
+<p>Lorsque <a title="Ouranos" href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/ouranos/">Ouranos</a> se fait couper les couilles, des gouttes de son sang on donné, en tombant sur <a title="Gaia " href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/gaia/">Gaia, </a>les Méliades.
 
-Lorsque [Ouranos](/2011/03/ouranos/ "Ouranos") se fait couper les couilles, des gouttes de son sang on donné, en tombant sur [Gaia, ](/2011/03/gaia/ "Gaia ")les Méliades. Elles habitent dans les frênes, et protègent les enfants et les troupeaux qui se placent sous leur feuillage. Elles s'accouplent (!?!) avec les [Erinynes](/2011/03/les-erinynes/ "Les Erinynes") pour donner naissance aux [géants](/2011/03/les-geants/ "Les Géants").
+</p><p>Elles habitent dans les frênes, et protègent les enfants et les troupeaux qui se placent sous leur feuillage.
+
+</p><p>Elles s'accouplent (!?!) avec les <a title="Les Erinynes" href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/les-erinynes/">Erinynes</a> pour donner naissance aux <a title="Les Géants" href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/les-geants/">géants</a>."

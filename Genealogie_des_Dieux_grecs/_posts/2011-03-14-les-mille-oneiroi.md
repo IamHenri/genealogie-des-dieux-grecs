@@ -9,5 +9,6 @@ categories:
 tags:
     - Monstre
 ---
+<p><strong>Les mille Oneiroi </strong>sont des divinités des songes et des rêves. Parmi eux, le célèbre Morphée, étant le seul à avoir l'apparence d'un mortel.
 
-**Les mille Oneiroi** sont des divinités des songes et des rêves. Parmi eux, le célèbre Morphée, étant le seul à avoir l'apparence d'un mortel. Ils sont principalement représentés comme des démons aux ailes noires. Ils sont les fils de [Nyx](/2011/03/nyx/ "Nyx").
+</p><p>Ils sont principalement représentés comme des démons aux ailes noires. Ils sont les fils de <a title="Nyx" href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/nyx/">Nyx</a>."

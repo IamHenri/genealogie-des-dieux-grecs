@@ -9,13 +9,17 @@ categories:
 tags:
     - Titanide
 ---
+<p><strong>Mnémosyne</strong>: Titanide personnifiant la mémoire, elle permet aux rois et aux poètes de discourir avec autorité et charisme. Elle est la fille de <a title="Gaïa " href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/gaia/">Gaïa </a>et <a title="Ouranos" href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/ouranos/">Ouranos</a>.
 
-**Mnémosyne**: Titanide personnifiant la mémoire, elle permet aux rois et aux poètes de discourir avec autorité et charisme. Elle est la fille de [Gaïa ](/2011/03/gaia/ "Gaïa ")et [Ouranos](/2011/03/ouranos/ "Ouranos"). Elle serait la mère des muses: - [Calliope ](/2011/03/calliope/ "Calliope")
-- [Clio](/2011/03/clio/ "Clio")
-- [Erato ](/2011/03/erato/ "Erato")
-- [Euterpe](/2011/03/euterpe/ "Euterpe")
-- [Melpomène](/2011/03/melpomene/ "Melpomene")
-- [Polymnie](/2011/03/polymnie/ "Polymnie")
-- [Terpsichore](/2011/03/terpsichore/ "Terpsichore")
-- [Thalie](/2011/03/thalie/ "Thalie")
-- [Uranie](/2011/03/uranie/ "Uranie")
+</p><p>Elle serait la mère des muses:
+<ul>
+ 	<li><a title="Calliope" href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/calliope/">Calliope </a></li>
+ 	<li><a title="Clio" href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/clio/">Clio</a></li>
+ 	<li><a title="Erato" href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/erato/">Erato </a></li>
+ 	<li><a title="Euterpe" href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/euterpe/">Euterpe</a></li>
+ 	<li><a title="Melpomene" href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/melpomene/">Melpomène</a></li>
+ 	<li><a title="Polymnie" href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/polymnie/">Polymnie</a></li>
+ 	<li><a title="Terpsichore" href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/terpsichore/">Terpsichore</a></li>
+ 	<li><a title="Thalie" href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/thalie/">Thalie</a></li>
+ 	<li><a title="Uranie" href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/uranie/">Uranie</a></li>
+</ul>

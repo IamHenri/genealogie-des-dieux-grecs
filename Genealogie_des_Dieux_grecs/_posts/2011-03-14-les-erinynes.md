@@ -9,9 +9,17 @@ categories:
 tags:
     - 'Divinité mineure'
 ---
+<p><strong>Les Erinynes </strong>sont aux nombre de trois, pas vraiment aimées de leurs proches frères et cousins, les <a title="Les Dieux et les Déesses" href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/category/les-divinites-grecques/dieux-et-deesses/">Dieux</a>.
 
-**Les Erinynes** sont aux nombre de trois, pas vraiment aimées de leurs proches frères et cousins, les [Dieux](category/les-divinites-grecques/dieux-et-deesses/ "Les Dieux et les Déesses"). Elles squattent dans le premier ghetto qui ait jamais existe : le Tartare. Elles protègent l'ordre établi et persécutent ceux qui font le mal. Elles sont: - **Mégère** : la Haine
-- **Tisiphone** : la Vengeance
-- **Alecto :** l'Implacable
+</p><p>Elles squattent dans le premier ghetto qui ait jamais existe : le Tartare.
 
-\[caption id="attachment\_624" align="aligncenter" width="240"\]![Erinyes Louvre](/wp-content/uploads/Erinyes_Louvre-240x300.jpg) Clytemnestre essayant de réveiller les Érinyes endormies tandis qu'Oreste (non visible) est purifié par Apollon, cratère apulien à figures rouges, 380-370 av. J.-C., musée du Louvre\[/caption\] 
+</p><p>Elles protègent l'ordre établi et persécutent ceux qui font le mal.
+
+</p><p>Elles sont:
+<ul>
+ 	<li><b>Mégère</b> : la Haine</li>
+ 	<li><b>Tisiphone</b> : la Vengeance</li>
+ 	<li><b>Alecto : </b>l'Implacable<b>
+</b></li>
+</ul>
+[caption id="attachment_624" align="aligncenter" width="240"]<img class="size-medium wp-image-624" src="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/wp-content/uploads/Erinyes_Louvre-240x300.jpg" alt="Erinyes Louvre" width="240" height="300" /> Clytemnestre essayant de réveiller les Érinyes endormies tandis qu'Oreste (non visible) est purifié par Apollon, cratère apulien à figures rouges, 380-370 av. J.-C., musée du Louvre[/caption]
