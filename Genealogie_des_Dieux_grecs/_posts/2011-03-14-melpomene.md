@@ -10,5 +10,4 @@ categories:
 tags:
     - Muse
 ---
-
-**Melpomene**, elle est la Muse du chant, de l'Harmonie Musicale, fille de [Mnémosyne](/2011/03/mnemosyne/ "Mnémosyne") et [Zeus](/2011/03/zeus/ "Zeus").
+<p><strong>Melpomene</strong>, elle est la Muse du chant, de l'Harmonie Musicale, fille de <a title="Mnémosyne" href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/mnemosyne/">Mnémosyne</a> et <a title="Zeus" href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/zeus/">Zeus</a>.
