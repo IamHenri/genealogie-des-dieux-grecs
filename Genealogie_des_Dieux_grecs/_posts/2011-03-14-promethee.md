@@ -9,5 +9,8 @@ categories:
 tags:
     - Titan
 ---
+<p><strong>Prométhée</strong>, le Grand Père des hommes, père de <a title="Deucalion" href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/deucalion/">Deucalion</a>, il est condamné à être enchaîné sur une montagne du Caucase pour se faire dévorer tout les jours le foie par un aigle. Un des rares Titans à survivre à la condamnation dans le Tartare. Survie discutable.
 
-**Prométhée**, le Grand Père des hommes, père de [Deucalion](/2011/03/deucalion/ "Deucalion"), il est condamné à être enchaîné sur une montagne du Caucase pour se faire dévorer tout les jours le foie par un aigle. Un des rares Titans à survivre à la condamnation dans le Tartare. Survie discutable. Son crime : avoir donné le feu aux hommes. Sa condamnation est éternelle, le foie repousse chaque jour. Il est lui même un Titan, fils de [Thémis](/2011/03/themis/ "Thémis") et [Japet](/2011/03/japet/ "Japet").
+</p><p>Son crime : avoir donné le feu aux hommes.
+
+</p><p>Sa condamnation est éternelle, le foie repousse chaque jour. Il est lui même un Titan, fils de <a title="Thémis" href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/themis/">Thémis</a> et <a title="Japet" href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/japet/">Japet</a>.
