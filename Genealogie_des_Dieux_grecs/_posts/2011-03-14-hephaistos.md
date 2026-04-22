@@ -9,5 +9,8 @@ categories:
 tags:
     - Dieu
 ---
+<p><strong>Héphaïstos</strong> est le dieu du feu, des forges et des volcans.
 
-**Héphaïstos** est le dieu du feu, des forges et des volcans. Entre sa naissance assez chaotique et son histoire de cul avec [Aphrodite](/2012/10/aphrodite/ "Aphrodite"), il n'y a rien de très notable, si ce n'est que c'est un artisan hors paire. Il est le fils de [Zeus](/2011/03/zeus/ "Zeus") et [Héra](/2011/03/hera/ "Héra"), frère de [Arès](/2011/03/ares/ "Ares"), [Ilithye](/2011/03/ilithye/ "Ilithye") et [Hébé](/2011/03/hebe/ "Hébé"). Il a la particularité d'avoir une infirmité sans que l'on sache d'où elle vient.
+</p><p>Entre sa naissance assez chaotique et son histoire de cul avec <a title="Aphrodite" href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2012/10/aphrodite/">Aphrodite</a>, il n'y a rien de très notable, si ce n'est que c'est un artisan hors paire.
+
+</p><p>Il est le fils de <a title="Zeus" href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/zeus/">Zeus</a> et <a title="Héra" href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/hera/">Héra</a>, frère de <a title="Ares" href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/ares/">Arès</a>, <a title="Ilithye" href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/ilithye/">Ilithye</a> et <a title="Hébé" href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/hebe/">Hébé</a>. Il a la particularité d'avoir une infirmité sans que l'on sache d'où elle vient.
