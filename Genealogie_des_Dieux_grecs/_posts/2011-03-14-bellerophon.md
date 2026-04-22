@@ -9,5 +9,6 @@ categories:
 tags:
     - Héros
 ---
+<p><img class="size-medium wp-image-1558 alignright" src="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/wp-content/uploads/Bellérophon-300x292.jpg" alt="" width="300" height="292" />Héros puissant de la mythologie, il est essentiellement connu pour avoir battu la chimère, créature monstrueuse à tête de lion, corps de chèvre et queue de serpent, elle crache du feu et dévore les humains. Il l'a battu en chevauchant Pégase, capturé à l'aide d'<a title="Athéna" href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/athena/">Athéna</a>.
 
-![](/wp-content/uploads/Bellérophon-300x292.jpg)Héros puissant de la mythologie, il est essentiellement connu pour avoir battu la chimère, créature monstrueuse à tête de lion, corps de chèvre et queue de serpent, elle crache du feu et dévore les humains. Il l'a battu en chevauchant Pégase, capturé à l'aide d'[Athéna](/2011/03/athena/ "Athéna"). Il est le fils de Glaucos, un personnage mineur de la mythologie grecque. Ce dernier est vu comme un personnage marin. 
+</p><p>Il est le fils de Glaucos, un personnage mineur de la mythologie grecque. Ce dernier est vu comme un personnage marin.

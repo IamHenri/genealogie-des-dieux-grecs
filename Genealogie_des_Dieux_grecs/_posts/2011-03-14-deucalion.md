@@ -9,5 +9,4 @@ categories:
 tags:
     - Mortel
 ---
-
-Seul survivant Mortel du Déluge avec sa [nana](/2011/03/pyrrha/ "Pyrrha"), il est le fils de [Prométhée](/2011/03/promethee/ "Prométhée"). C'est marrant comme ça pourrait rappeler quelque chose...
+<p>Seul survivant Mortel du Déluge avec sa <a title="Pyrrha" href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/pyrrha/">nana</a>, il est le fils de <a title="Prométhée" href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/promethee/">Prométhée</a>. C'est marrant comme ça pourrait rappeler quelque chose...
