@@ -9,5 +9,6 @@ categories:
 tags:
     - Dieu
 ---
+<p>Le Dieu de la médecine. Il possède un bâton autour duquel s'enroule deux serpents. <strong>Le caducée d'Asclepios est un</strong> symbole encore bien connu en ce début de XXIème siècle. <a title="Zeus" href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/zeus/">Zeus</a> le butte pour avoir ressuscité les morts mais le place dans les étoiles après s'être rendu compte du bien qu'il a apporté aux hommes.
 
-Le Dieu de la médecine. Il possède un bâton autour duquel s'enroule deux serpents. **Le caducée d'Asclepios est un** symbole encore bien connu en ce début de XXIème siècle. [Zeus](/2011/03/zeus/ "Zeus") le butte pour avoir ressuscité les morts mais le place dans les étoiles après s'être rendu compte du bien qu'il a apporté aux hommes. Il est le fils d'[Apollon](/2011/03/apollon/ "Apollon") et de Coronis.
+</p><p>Il est le fils d'<a title="Apollon" href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/apollon/">Apollon</a> et de Coronis.
