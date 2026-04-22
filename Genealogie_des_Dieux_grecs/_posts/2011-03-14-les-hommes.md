@@ -9,5 +9,6 @@ categories:
 tags:
     - Mortel
 ---
+<p>Les humains sont des êtres mortels, vils et pernicieux, n'ayant que peu d'égards envers ses semblables ni envers leur terre mère.
 
-Les humains sont des êtres mortels, vils et pernicieux, n'ayant que peu d'égards envers ses semblables ni envers leur terre mère. On ne peut qu'admettre qu'il mérite bien le [Chaos](/2011/03/chaos/) comme paternité!
+</p><p>On ne peut qu'admettre qu'il mérite bien le <a href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/chaos/">Chaos</a> comme paternité!
