@@ -11,9 +11,17 @@ tags:
     - Mythologie
 ---
 
-Le contexte, c'est le combat entre [Méduse](/2011/03/les-gorgones/ "Les Gorgones") et [Persée](/2014/04/persee/ "Persée fils de Zeus et Danaé, héros de la mythologie grecque"). Méduse, en se faisant couper la tête par Persée, un peu aidé par des armes divines, éclabousse de sang les rivages d'[Océan](/2011/03/ocean/ "Océan"). Cet épandage de sang monstrueux donne ainsi naissance à
+<p>Le contexte, c'est le combat entre <a title="Les Gorgones" href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/les-gorgones/">Méduse</a> et <a title="Persée fils de Zeus et Danaé, héros de la mythologie grecque" href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2014/04/persee/">Persée</a>.
 
-- Pégase, le cheval ailé,
-- et un géant, Chrysaor.
+</p><p>Méduse, en se faisant couper la tête par Persée, un peu aidé par des armes divines, éclabousse de sang les rivages d'<a title="Océan" href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/ocean/">Océan</a>.
 
-Ce dernier est le roi "à l'époque" de ce qu'on appelle l'Espagne aujourd'hui. Donc, comme dit dans un autre post, si une divinité reçoit du sang d'une autre, il y a de grande chance que cela donne lieu à une descendance. Au delà de ces accouplements aussi mystérieux qu'imaginatifs, on peut aussi s'interroger sur les naissance, comme par exemple celle d'Asopos, le fleuve, ou encore le Styx. [Épisode quatre](/2018/08/la-sexualite-des-divinites-grecques-episode-quatre-un-roi-et-laurore/)
+</p><p>Cet épandage de sang monstrueux donne ainsi naissance à
+<ul>
+ 	<li>Pégase, le cheval ailé,</li>
+ 	<li>et un géant, Chrysaor.</li>
+</ul>
+Ce dernier est le roi "à l'époque" de ce qu'on appelle l'Espagne aujourd'hui. Donc, comme dit dans un autre post, si une divinité reçoit du sang d'une autre, il y a de grande chance que cela donne lieu à une descendance.
+
+</p><p>Au delà de ces accouplements aussi mystérieux qu'imaginatifs, on peut aussi s'interroger sur les naissance, comme par exemple celle d'Asopos, le fleuve, ou encore le Styx.
+
+</p><p><a href="https://genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2018/08/la-sexualite-des-divinites-grecques-episode-quatre-un-roi-et-laurore/">Épisode quatre</a></p>
