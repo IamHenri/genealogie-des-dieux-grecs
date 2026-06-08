@@ -13,4 +13,25 @@ tags:
     - Titanide
 ---
 
-Les Titans sont des divinités puissantes. Elles sont nées avant le Dieux et finirent enfermées dans les geôles du Tartare. On compte seize titans et titanides dans la théogonie de Hésiode. En voici la liste: [**Astéria**](/2011/03/asteria/), elle serait à l’origine de l’ile de Délos, s’étant transformée en caille pour échapper à Zeus. [**Atlas**](/2011/03/atlas/) est condamné à porter le monde sur ses épaules. [**Coéos** ](/2011/03/coeos/)ou la voute céleste, ayant contribué à la Théogonie grecque avec sa Sœur. [**Crios**](/2011/03/crios/), comme les autres, il finit dans le Tartare. [**Cronos**](/2011/03/cronos/), le Roi des Titans, il est une divinité primordiale et immatérielle, sans véritable identité ni représentation. [**Epiméthée**](/2011/03/epimethee/), notre grand père maternel. [**Hypérion**](/2011/03/hyperion/), il est le Soleil au zénith, celui qui est au-dessus. [**Japet**](/2011/03/japet/), un pilier du monde, au loin à l’ouest, certainement un pote d’Atlas, son fils!!! [**Mnémosyne**](/2011/03/mnemosyne/), la mémoire, mère des muses. [**Océan**](/2011/03/ocean/), un Titan puissant qui engendre avec sa sœur les Océanides. [**Pheobe**](/2011/03/pheobe/) personnifie par l’intelligence. [**Prométhée**](/2011/03/promethee/), le Grand Père paternel des hommes, Il a des problèmes de foie. [**Rhéa**](/2011/03/rhea/), avec Cronos, elle devient la mère de plusieurs Dieux. [**Thémis**](/2011/03/themis/), elle aurait eu une descendance de Zeus. [**Téthys**](/2011/03/thetys/), divinité primordiale et archaïque, elle évoque le monde marin. [**Théia**](/2011/03/theia/), mère d’Hélios, Séléné et Eos. Pour voir [leur place dans l'arbre généalogique des Divinités grecques](genealogie/)!
+<p>Les Titans sont des divinités puissantes. Elles sont nées avant le Dieux et finirent enfermées dans les geôles du Tartare.
+
+</p><p>On compte seize titans et titanides dans la théogonie de Hésiode. En voici la liste:
+
+</p><p><a href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/asteria/"><strong>Astéria</strong></a>, elle serait à l’origine de l’ile de Délos, s’étant transformée en caille pour échapper à Zeus.
+<a href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/atlas/"><strong>Atlas</strong></a> est condamné à porter le monde sur ses épaules.
+<a href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/coeos/"><strong>Coéos </strong></a>ou la voute céleste, ayant contribué à la Théogonie grecque avec sa Sœur.
+<a href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/crios/"><strong>Crios</strong></a>, comme les autres, il finit dans le Tartare.
+<a href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/cronos/"><strong>Cronos</strong></a>, le Roi des Titans, il est une divinité primordiale et immatérielle, sans véritable identité ni représentation.
+<a href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/epimethee/"><strong>Epiméthée</strong></a>, notre grand père maternel.
+<a href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/hyperion/"><strong>Hypérion</strong></a>, il est le Soleil au zénith, celui qui est au-dessus.
+<a href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/japet/"><strong>Japet</strong></a>, un pilier du monde, au loin à l’ouest, certainement un pote d’Atlas, son fils!!!
+<a href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/mnemosyne/"><strong>Mnémosyne</strong></a>, la mémoire, mère des muses.
+<a href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/ocean/"><strong>Océan</strong></a>, un Titan puissant qui engendre avec sa sœur les Océanides.
+<a href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/pheobe/"><strong>Pheobe</strong></a> personnifie par l’intelligence.
+<a href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/promethee/"><strong>Prométhée</strong></a>, le Grand Père paternel des hommes, Il a des problèmes de foie.
+<a href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/rhea/"><strong>Rhéa</strong></a>, avec Cronos, elle devient la mère de plusieurs Dieux.
+<a href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/themis/"><strong>Thémis</strong></a>, elle aurait eu une descendance de Zeus.
+<a href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/thetys/"><strong>Téthys</strong></a>, divinité primordiale et archaïque, elle évoque le monde marin.
+<a href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/theia/"><strong>Théia</strong></a>, mère d’Hélios, Séléné et Eos.
+
+</p><p>Pour voir <a href="http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/genealogie/">leur place dans l'arbre généalogique des Divinités grecques</a>!</p>
