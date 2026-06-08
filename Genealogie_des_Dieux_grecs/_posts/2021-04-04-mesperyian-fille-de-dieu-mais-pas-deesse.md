@@ -9,14 +9,25 @@ tags:
     - 'Fils de Dieux'
 ---
 
-Mesperyian serait la fille de Perséphone et Hadès si tant est qu'elle ait existé dans le panthéon originel de la mythologie grecque et a une aura particulière sur le web.
 
-Cette personnalité de la mythologie grecque semble être une déesse de la torture, des châtiments. Or c'est faux. Elle ne fût que la fille de Hadès sans même avoir de rôle comme Hérakles...
+<p>Mesperyian serait la fille de Perséphone et Hadès si tant est qu'elle ait existé dans le panthéon originel de la mythologie grecque et a une aura particulière sur le web. </p>
 
-Elle a bénéficié d'une aura particulière qu'ont déjà tous les enfants de [Eris](/2011/03/eris/). Ou encore les [Erinynes](/2011/03/les-erinynes/)!
 
-On trouve un [fil sur Reddit](https://www.reddit.com/r/mythology/comments/dow9q1/mesperyian/) qui évoque cette fausse déesse pour plus d'infos (en anglais).
+</p><p>
+<p>Cette personnalité de la mythologie grecque semble être une déesse de la torture, des châtiments. Or c'est faux. Elle ne fût que la fille de Hadès sans même avoir de rôle comme Hérakles... </p>
 
-On y voit qu'à l'origine de cette nouvelle Déesse inventée de nulle part, tout part d'un [Article](https://www.booksie.com/posting/sarahrenee/mesperyian-goddess-of-torture-and-punishment-94519).
 
-Une des remarques amusantes sur Reddit : un des utilisateurs signifie que c'est aussi comme ça que sont créés les mythes...
+</p><p>
+<p>Elle a bénéficié d'une aura particulière qu'ont déjà tous les enfants de <a href="https://genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/eris/">Eris</a>. Ou encore les <a href="https://genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/2011/03/les-erinynes/">Erinynes</a>!</p>
+
+
+</p><p>
+<p>On trouve un <a href="https://www.reddit.com/r/mythology/comments/dow9q1/mesperyian/">fil sur Reddit</a> qui évoque cette fausse déesse pour plus d'infos (en anglais). </p>
+
+
+</p><p>
+<p>On y voit qu'à l'origine de cette nouvelle Déesse inventée de nulle part, tout part d'un <a href="https://www.booksie.com/posting/sarahrenee/mesperyian-goddess-of-torture-and-punishment-94519">Article</a>.</p>
+
+
+</p><p>
+<p>Une des remarques amusantes sur Reddit : un des utilisateurs signifie que c'est aussi comme ça que sont créés les mythes... </p>
