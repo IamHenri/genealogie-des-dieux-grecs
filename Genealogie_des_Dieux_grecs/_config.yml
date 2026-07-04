@@ -1,7 +1,7 @@
 title: Généalogie des Dieux Grecs
 description: "La généalogie des divinités de la mythologie grecque"
-baseurl: "/genealogie-des-dieux-grecs"
-url: "https://iamhenri.github.io"
+baseurl: "/Genealogie_des_Dieux_grecs"
+url: "https://genealogiedesdieuxgrecs.com"
 
 # Permalinks - CRITIQUE : conserver les URLs WordPress
 permalink: /Genealogie_des_Dieux_grecs/:year/:month/:slug/
