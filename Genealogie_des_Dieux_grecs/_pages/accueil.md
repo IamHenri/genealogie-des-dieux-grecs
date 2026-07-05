@@ -13,14 +13,14 @@ guid: 'http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/?page_i
 <p>
   Ce site présente UNE généalogie des Dieux grecs. "Une généalogie" et pas "La …" car il n'existe pas d'unique version.
   Chacune diffère selon les auteurs. De Hésiode à Virgile, en passant par Homère sans parler de la
-  <a href="{{ '/Genealogie_des_Dieux_grecs/2013/01/les-auteurs-de-la-mythologie-grecque/' | relative_url }}" title="Les auteurs de la mythologie grecque">multitude des auteurs</a>
+  <a href="{{ '/2013/01/les-auteurs-de-la-mythologie-grecque/' | relative_url }}" title="Les auteurs de la mythologie grecque">multitude des auteurs</a>
   ayant évoqué les filiations de ces différentes entités plus ou moins divines issues de la mythologie grecque.
 </p>
 
 <p>
   La référence, ici, c'est Hésiode. Certains compléments sont apportés depuis des textes d'autres auteurs, en évitant
   les contradictions. À cela s'ajoutent quelques histoires cultes et légendaires, comme par exemple
-  <a href="{{ '/Genealogie_des_Dieux_grecs/2011/10/la-guerre-de-troie/' | relative_url }}" title="La guerre de Troie">la guerre de Troie</a>.
+  <a href="{{ '/2011/10/la-guerre-de-troie/' | relative_url }}" title="La guerre de Troie">la guerre de Troie</a>.
 </p>
 
 <p>
@@ -39,7 +39,7 @@ guid: 'http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/?page_i
 
 <p>
   <a href="{{ '/genealogie-des-divinites-grecques.html' | relative_url }}" title="Arbre généalogique des Dieux grecs">
-    <img src="https://genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/wp-content/uploads/Dieux_grecs_ico.jpg"
+    <img src="https://genealogiedesdieuxgrecs.com/wp-content/uploads/Dieux_grecs_ico.jpg"
          alt="Généalogie des dieux grecs - Mythologie grecque">
   </a>
 </p>
@@ -51,10 +51,10 @@ guid: 'http://www.genealogiedesdieuxgrecs.com/Genealogie_des_Dieux_grecs/?page_i
 
 <p>
   Pour finir, on trouvera différents
-  <a href="{{ '/Genealogie_des_Dieux_grecs/categories/mythes-et-legendes/' | relative_url }}" title="Mythes et légendes">mythes et légendes</a>.
+  <a href="{{ '/categories/mythes-et-legendes/' | relative_url }}" title="Mythes et légendes">mythes et légendes</a>.
   Ou encore, une
-  <a href="{{ '/Genealogie_des_Dieux_grecs/2011/02/classification-des-personnages-de-la-mythologies-grecque/' | relative_url }}" title="Classification des personnages de la mythologies grecque">présentation des différents types de créatures mythologiques</a>
+  <a href="{{ '/2011/02/classification-des-personnages-de-la-mythologies-grecque/' | relative_url }}" title="Classification des personnages de la mythologies grecque">présentation des différents types de créatures mythologiques</a>
   auxquelles nous avons à faire dans ce site.
 </p>
 
-<h2><a href="{{ '/Genealogie_des_Dieux_grecs/2019/11/liste-des-divinites-de-la-mythologie-grecque/' | relative_url }}">Les divinités du site</a></h2>
+<h2><a href="{{ '/2019/11/liste-des-divinites-de-la-mythologie-grecque/' | relative_url }}">Les divinités du site</a></h2>
