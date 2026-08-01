@@ -14,7 +14,7 @@ layout: default
         {% for post in site.posts %}
           {% if post.categories contains cat %}
             <li class="mb-3">
-              <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+              <a href="{{ post.url }}">{{ post.title }}</a>
               <small class="text-muted ms-2">{{ post.date | date: "%d %B %Y" }}</small>
             </li>
           {% endif %}
